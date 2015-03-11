@@ -1,0 +1,75 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -uc Nexys3_master.ucf -p xc6slx16-csg324-3
+union_1.ngc union_1.ngd
+
+Reading NGO file "E:/Desktop/Digitales_Prueba1/union_1.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "Nexys3_master.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+ERROR:ConstraintSystem:59 - Constraint <NET "clock"            LOC = "V10" |>
+   [Nexys3_master.ucf(7)]: NET "clock" not found.  Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET "clock"            LOC = "V10" |> [Nexys3_master.ucf(7)]' could not be
+   found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <IOSTANDARD = "LVCMOS33";>
+   [Nexys3_master.ucf(7)]: NET "clock" not found.  Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+ERROR:ConstraintSystem:59 - Constraint <Net "clock" TNM_NET = sys_clk_pin;>
+   [Nexys3_master.ucf(8)]: NET "clock" not found.  Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem:56 - Constraint <TIMESPEC TS_sys_clk_pin = PERIOD
+   sys_clk_pin 100000 kHz;> [Nexys3_master.ucf(9)]: Unable to find an active
+   'TNM' or 'TimeGrp' constraint named 'sys_clk_pin'.
+
+WARNING:ConstraintSystem:191 - The TNM 'sys_clk_pin', does not directly or
+   indirectly drive any flip-flops, latches and/or RAMS and cannot be actively
+   used by the referencing Period constraint 'TS_sys_clk_pin'. If clock manager
+   blocks are directly or indirectly driven, a new TNM constraint will not be
+   derived even though the referencing constraint is a PERIOD constraint unless
+   an output of the clock manager drives flip-flops, latches or RAMs. This TNM
+   is used in the following user PERIOD specification:
+   <TIMESPEC TS_sys_clk_pin = PERIOD sys_clk_pin 100000 kHz;>
+   [Nexys3_master.ucf(9)]
+
+WARNING:ConstraintSystem:197 - The following specification is invalid because
+   the referenced TNM constraint was removed:
+   <TIMESPEC TS_sys_clk_pin = PERIOD sys_clk_pin 100000 kHz;>
+   [Nexys3_master.ucf(9)]
+
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     3
+  Number of warnings:   4
+
+Total memory usage is 175192 kilobytes
+
+Total REAL time to NGDBUILD completion:  3 sec
+Total CPU time to NGDBUILD completion:   3 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "union_1.bld"...

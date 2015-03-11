@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Digitales_Prueba1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/union_1 C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|union_1.v</ClosedNode>
+         <ClosedNode>/union_1 E:|Desktop|Digitales_Prueba1|union_1.v/maq2 - FSM_7_Seg</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>maq2 - FSM_7_Seg (E:/Desktop/Digitales_Prueba1/FSM_7_Seg.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000125000000020000000000000000000000000200000064ffffffff000000810000000300000002000001250000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>maq2 - FSM_7_Seg (E:/Desktop/Digitales_Prueba1/FSM_7_Seg.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000028e000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001c20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>comparador.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Implement Design/Map/Generate Post-Map Static Timing</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Back-annotate Pin Locations</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Generate IBIS Model</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000146000000010000000100000000000000000000000064ffffffff000000810000000000000001000001460000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000e1000000dd01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/FSM_7_Seg_Test_Bench C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|FSM_7_Seg_Test_Bench.v</ClosedNode>
+         <ClosedNode>/FSM_7_Seg_Test_Bench C:|Users|Laura|Dropbox|TEC|I S 2015|Lab. Digitales|Digitales_Prueba1|FSM_7_Seg_Test_Bench.v</ClosedNode>
+         <ClosedNode>/FSM_7_Seg_Test_Bench E:|Desktop|Digitales_Prueba1|FSM_7_Seg_Test_Bench.v</ClosedNode>
+         <ClosedNode>/FSM_7_Seg_testbench2 E:|Desktop|Digitales_Prueba1|FSM_7_Seg_testbench2.v</ClosedNode>
+         <ClosedNode>/FSM_7_Seg_testbench2 E:|Desktop|Digitales_Prueba1|FSM_7_Seg_testbench2.v/uut - union_1</ClosedNode>
+         <ClosedNode>/FSM_7_Seg_testbench2 E:|Desktop|Digitales_Prueba1|FSM_7_Seg_testbench2.v/uut - union_1/maq2 - FSM_7_Seg</ClosedNode>
+         <ClosedNode>/FSM_testbench E:|Desktop|Digitales_Prueba1|FSM_testbench.v</ClosedNode>
+         <ClosedNode>/ModuloGeneralTestBench E:|Desktop|Digitales_Prueba1|ModuloGeneralTestBench.v/uut - union_1</ClosedNode>
+         <ClosedNode>/Uni1 C:|Users|Laura|Dropbox|TEC|I S 2015|Lab. Digitales|Digitales_Prueba1|Uni1.v</ClosedNode>
+         <ClosedNode>/Uni1 E:|Desktop|Digitales_Prueba1|Uni1.v</ClosedNode>
+         <ClosedNode>/Uni1 E:|Desktop|Digitales_Prueba1|Uni1.v/uut - union_1</ClosedNode>
+         <ClosedNode>/Uni1F E:|Desktop|Digitales_Prueba1|Uni1F.v</ClosedNode>
+         <ClosedNode>/Uni1_TestBench E:|Desktop|Digitales_Prueba1|Uni1_TestBench.v</ClosedNode>
+         <ClosedNode>/Uni1_TestBench E:|Desktop|Digitales_Prueba1|Uni1_TestBench.v/uut - union_1/maq2 - FSM_7_Seg</ClosedNode>
+         <ClosedNode>/comparador_test_bench C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|comparador_test_bench.v</ClosedNode>
+         <ClosedNode>/comparador_test_bench C:|Users|Laura|Dropbox|TEC|I S 2015|Lab. Digitales|Digitales_Prueba1|comparador_test_bench.v</ClosedNode>
+         <ClosedNode>/comparador_test_bench E:|Desktop|Digitales_Prueba1|comparador_test_bench.v</ClosedNode>
+         <ClosedNode>/fsm_ss E:|Desktop|Digitales_Prueba1|fsm_ss.v</ClosedNode>
+         <ClosedNode>/fsm_test_bench C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|fsm_test_bench.v</ClosedNode>
+         <ClosedNode>/fsm_test_bench C:|Users|Laura|Dropbox|TEC|I S 2015|Lab. Digitales|Digitales_Prueba1|fsm_test_bench.v</ClosedNode>
+         <ClosedNode>/fsm_test_bench E:|Desktop|Digitales_Prueba1|fsm_test_bench.v</ClosedNode>
+         <ClosedNode>/union_1 C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|union_1.v</ClosedNode>
+         <ClosedNode>/union_1_N_test_bench C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|union_1_N_test_bench.v</ClosedNode>
+         <ClosedNode>/union_1_def_test_bench C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|union_1_def_test_bench.v</ClosedNode>
+         <ClosedNode>/union_1_def_test_bench C:|Users|Laura|Dropbox|TEC|I S 2015|Lab. Digitales|Digitales_Prueba1|union_1_def_test_bench.v</ClosedNode>
+         <ClosedNode>/union_1_def_test_bench E:|Desktop|Digitales_Prueba1|union_1_def_test_bench.v</ClosedNode>
+         <ClosedNode>/union_1_test_bench C:|Users|Geli|Desktop|verilog|Digitales_Prueba1|union_1_test_bench.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000166000000020000000000000000000000000200000064ffffffff000000810000000300000002000001660000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000146000000010000000100000000000000000000000064ffffffff000000810000000000000001000001460000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000146000000010000000100000000000000000000000064ffffffff000000810000000000000001000001460000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/FSM_7_Seg_Test_Bench E:|Desktop|Digitales_Prueba1|FSM_7_Seg_Test_Bench.v</ClosedNode>
+         <ClosedNode>/Uni1_TestBench E:|Desktop|Digitales_Prueba1|Uni1_TestBench.v</ClosedNode>
+         <ClosedNode>/comparador_test_bench E:|Desktop|Digitales_Prueba1|comparador_test_bench.v</ClosedNode>
+         <ClosedNode>/fsm_test_bench E:|Desktop|Digitales_Prueba1|fsm_test_bench.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Uni1_TestBench (E:/Desktop/Digitales_Prueba1/Uni1_TestBench.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000156000000020000000000000000000000000200000064ffffffff000000810000000300000002000001560000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Uni1_TestBench (E:/Desktop/Digitales_Prueba1/Uni1_TestBench.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

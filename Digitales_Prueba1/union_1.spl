@@ -1,0 +1,15 @@
+[Inputs]
+clock
+reset
+en_m1
+lect
+=temperatura[4:0]=
+[Outputs]
+est_alarma
+est_ventilador
+=anodos[3:0]=
+=catodos[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel union_1
+

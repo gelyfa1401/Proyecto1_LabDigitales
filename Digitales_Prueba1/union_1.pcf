@@ -1,0 +1,39 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Mar 08 17:54:10 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "en_m1" LOCATE = SITE "V8" LEVEL 1;
+COMP "catodos<0>" LOCATE = SITE "T17" LEVEL 1;
+COMP "catodos<1>" LOCATE = SITE "T18" LEVEL 1;
+COMP "catodos<2>" LOCATE = SITE "U17" LEVEL 1;
+COMP "catodos<3>" LOCATE = SITE "U18" LEVEL 1;
+COMP "catodos<4>" LOCATE = SITE "M14" LEVEL 1;
+COMP "catodos<5>" LOCATE = SITE "N14" LEVEL 1;
+COMP "catodos<6>" LOCATE = SITE "L14" LEVEL 1;
+COMP "temperatura<0>" LOCATE = SITE "T10" LEVEL 1;
+COMP "est_ventilador" LOCATE = SITE "V16" LEVEL 1;
+COMP "catodos<7>" LOCATE = SITE "M13" LEVEL 1;
+COMP "temperatura<1>" LOCATE = SITE "T9" LEVEL 1;
+COMP "temperatura<2>" LOCATE = SITE "V9" LEVEL 1;
+COMP "temperatura<3>" LOCATE = SITE "M8" LEVEL 1;
+COMP "temperatura<4>" LOCATE = SITE "N8" LEVEL 1;
+COMP "clock" LOCATE = SITE "V10" LEVEL 1;
+COMP "lect" LOCATE = SITE "T5" LEVEL 1;
+COMP "reset" LOCATE = SITE "B8" LEVEL 1;
+COMP "est_alarma" LOCATE = SITE "U16" LEVEL 1;
+COMP "anodos<0>" LOCATE = SITE "N16" LEVEL 1;
+COMP "anodos<1>" LOCATE = SITE "N15" LEVEL 1;
+COMP "anodos<2>" LOCATE = SITE "P18" LEVEL 1;
+COMP "anodos<3>" LOCATE = SITE "P17" LEVEL 1;
+TIMEGRP sys_clk_pin = BEL "divisor/clk_out" BEL "divisor/counter_0" BEL
+        "divisor/counter_1" BEL "divisor/counter_2" BEL "divisor/counter_3"
+        BEL "divisor/counter_4" BEL "divisor/counter_5" BEL
+        "divisor/counter_6" BEL "divisor/counter_7" BEL "divisor/counter_8"
+        BEL "divisor/counter_9" BEL "divisor/counter_10" BEL
+        "divisor/counter_11" BEL "divisor/counter_12" BEL "divisor/counter_13"
+        BEL "divisor/counter_14" BEL "divisor/counter_15" BEL
+        "divisor/counter_16" BEL "clock_BUFGP/BUFG";
+TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_pin" 100 MHz HIGH 50%;
+SCHEMATIC END;
+

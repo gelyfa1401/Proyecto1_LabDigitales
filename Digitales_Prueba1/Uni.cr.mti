@@ -1,0 +1,17 @@
+E:/Desktop/Digitales_Prueba1/netgen/par/union_1_timesim.v {1 {vlog -work work -stats=none E:/Desktop/Digitales_Prueba1/netgen/par/union_1_timesim.v
+Model Technology ModelSim PE Student Edition vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module union_1
+-- Compiling module glbl
+
+Top level modules:
+	union_1
+	glbl
+
+} {} {}} E:/Desktop/Digitales_Prueba1/Uni1_TestBench.v {1 {vlog -work work -stats=none E:/Desktop/Digitales_Prueba1/Uni1_TestBench.v
+Model Technology ModelSim PE Student Edition vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Uni1_TestBench
+
+Top level modules:
+	Uni1_TestBench
+
+} {} {}}

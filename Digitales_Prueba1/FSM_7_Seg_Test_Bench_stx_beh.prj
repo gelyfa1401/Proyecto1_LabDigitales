@@ -1,0 +1,4 @@
+verilog isim_temp "divisorfrecuencia.v"
+verilog isim_temp "FSM_7_Seg.v"
+verilog isim_temp "FSM_7_Seg_Test_Bench.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

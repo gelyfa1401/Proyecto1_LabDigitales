@@ -1,0 +1,28 @@
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 fsm.ngc fsm.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o fsm_map.ncd fsm.ngd fsm.pcf 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 fsm.ngc fsm.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o fsm_map.ncd fsm.ngd fsm.pcf 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 fsm.ngc fsm.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o fsm_map.ncd fsm.ngd fsm.pcf 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 fsm.ngc fsm.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o fsm_map.ncd fsm.ngd fsm.pcf 
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o fsm_map.ncd fsm.ngd fsm.pcf 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 
+xst -intstyle ise -ifn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.xst" -ofn "C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/fsm.syr" 

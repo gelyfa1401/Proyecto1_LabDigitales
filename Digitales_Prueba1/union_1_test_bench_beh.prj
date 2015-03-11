@@ -1,0 +1,5 @@
+verilog work "fsm.v"
+verilog work "comparador.v"
+verilog work "union_1.v"
+verilog work "union_1_test_bench.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

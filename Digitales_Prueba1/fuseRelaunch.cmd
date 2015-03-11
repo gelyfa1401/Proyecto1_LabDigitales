@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Desktop/Digitales_Prueba1/ModuloGeneralTestBench_isim_beh.exe" -prj "E:/Desktop/Digitales_Prueba1/ModuloGeneralTestBench_beh.prj" "work.ModuloGeneralTestBench" "work.glbl" 

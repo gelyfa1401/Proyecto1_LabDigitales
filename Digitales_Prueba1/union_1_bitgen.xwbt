@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Desktop\Digitales_Prueba1\union_1.ncd
+OUTFILE=E:\Desktop\Digitales_Prueba1\union_1.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=E:\Desktop\Digitales_Prueba1
+LICENSE=WebPack
+USER_INFO=210962361_0_0_371

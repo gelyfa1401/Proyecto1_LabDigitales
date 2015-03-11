@@ -1,0 +1,6 @@
+verilog work "../../Downloads/fsm.v"
+verilog work "FSM_7_Seg.v"
+verilog work "comparador.v"
+verilog work "union_1.v"
+verilog work "ModuloGeneralTestBench.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

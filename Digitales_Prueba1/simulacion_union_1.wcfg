@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Geli/Desktop/verilog/Digitales_Prueba1/union_1_def_test_bench_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="union_1_def_test_bench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="28" />
+   <wvobject fp_name="/union_1_def_test_bench/est_alarma" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">est_alarma</obj_property>
+      <obj_property name="ObjectShortName">est_alarma</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/est_ventilador" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">est_ventilador</obj_property>
+      <obj_property name="ObjectShortName">est_ventilador</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/estados" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">estados[1:0]</obj_property>
+      <obj_property name="ObjectShortName">estados[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/temperatura" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">temperatura[4:0]</obj_property>
+      <obj_property name="ObjectShortName">temperatura[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/en_m1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">en_m1</obj_property>
+      <obj_property name="ObjectShortName">en_m1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/lect" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lect</obj_property>
+      <obj_property name="ObjectShortName">lect</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider9" type="divider">
+      <obj_property name="label">Comparador_25</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/temp_25/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/temp_25/D" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">D[4:0]</obj_property>
+      <obj_property name="ObjectShortName">D[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/temp_25/L" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">L</obj_property>
+      <obj_property name="ObjectShortName">L</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider13" type="divider">
+      <obj_property name="label">Comparador_28</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/temp_28/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/temp_28/D" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">D[4:0]</obj_property>
+      <obj_property name="ObjectShortName">D[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/temp_28/L" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">L</obj_property>
+      <obj_property name="ObjectShortName">L</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider17" type="divider">
+      <obj_property name="label">FSM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="BkColor">128 128 255</obj_property>
+      <obj_property name="TextColor">230 230 230</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/en" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/ac_ventilador" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ac_ventilador</obj_property>
+      <obj_property name="ObjectShortName">ac_ventilador</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/ac_alarma" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ac_alarma</obj_property>
+      <obj_property name="ObjectShortName">ac_alarma</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/lectura" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lectura</obj_property>
+      <obj_property name="ObjectShortName">lectura</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/en_alarma" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">en_alarma</obj_property>
+      <obj_property name="ObjectShortName">en_alarma</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/en_ventilador" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">en_ventilador</obj_property>
+      <obj_property name="ObjectShortName">en_ventilador</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/estado" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">estado[1:0]</obj_property>
+      <obj_property name="ObjectShortName">estado[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/state_reg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">state_reg[1:0]</obj_property>
+      <obj_property name="ObjectShortName">state_reg[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/union_1_def_test_bench/uut/darv/state_next" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">state_next[1:0]</obj_property>
+      <obj_property name="ObjectShortName">state_next[1:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
